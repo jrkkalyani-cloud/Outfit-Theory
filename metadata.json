@@ -1,0 +1,10 @@
+{
+  "name": "Outfit Theory",
+  "description": "Premium haute streetwear & custom apparel atelier. Wear your identity with architectural heavyweight cottons and interactive custom garment engineering.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

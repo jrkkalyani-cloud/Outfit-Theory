@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{colors:{"surface-container":"#201f1f","outline":"#8e9192","surface-container-low":"#1c1b1b","tertiary-fixed-dim":"#b9c8de","on-error-container":"#ffdad6","on-secondary-container":"#acb6c2","surface-container-high":"#2a2a2a","inverse-on-surface":"#313030","primary-fixed-dim":"#c6c6c7","error-container":"#93000a","on-primary-container":"#636565","on-tertiary-container":"#576679","on-surface":"#e5e2e1","surface-container-highest":"#353534","surface-variant":"#353534","surface-dim":"#131313","on-primary":"#2f3131","surface":"#131313","surface-bright":"#3a3939","on-tertiary-fixed-variant":"#39485a","secondary-container":"#3e4852","tertiary-fixed":"#d4e4fa","on-surface-variant":"#c4c7c8","on-secondary-fixed":"#131d25","inverse-surface":"#e5e2e1","secondary-fixed":"#dae3f0","error":"#ffb4ab","on-error":"#690005","on-secondary-fixed-variant":"#3e4852","on-secondary":"#28313b","secondary-fixed-dim":"#bdc8d3","tertiary":"#ffffff","background":"#131313","primary-container":"#e2e2e2","inverse-primary":"#5d5f5f","secondary":"#bdc8d3","tertiary-container":"#d4e4fa","primary-fixed":"#e2e2e2","on-tertiary":"#233143","on-background":"#e5e2e1","on-tertiary-fixed":"#0d1c2d","surface-tint":"#c6c6c7","surface-container-lowest":"#0e0e0e","on-primary-fixed-variant":"#454747","primary":"#ffffff","outline-variant":"#444748","on-primary-fixed":"#1a1c1c"},borderRadius:{DEFAULT:"0.25rem",lg:"0.5rem",xl:"0.75rem",full:"9999px"},spacing:{"space-xs":"0.25rem","margin-tablet":"2rem","space-md":"1rem","gutter":"1.5rem","space-xl":"4rem","gutter-mobile":"0.75rem","space-lg":"2rem","margin-mobile":"1.25rem","space-sm":"0.5rem","margin":"3.5rem"},fontFamily:{"headline-display":["Playfair Display"],"headline-sm":["Playfair Display"],"headline-lg-mobile":["Playfair Display"],"headline-lg":["Playfair Display"],"title-md":["Inter"],"label-mono-sm":["Inter"],"title-lg":["Inter"],"body-md":["Inter"],"body-sm":["Inter"],"body-lg":["Inter"],"headline-display-mobile":["Playfair Display"],"label-caps":["Inter"],"headline-md":["Playfair Display"]},fontSize:{"headline-display":["80px",{lineHeight:"88px",letterSpacing:"-0.03em",fontWeight:"400"}],"headline-sm":["22px",{lineHeight:"30px",letterSpacing:"0em",fontWeight:"500"}],"headline-lg-mobile":["32px",{lineHeight:"40px",letterSpacing:"-0.01em",fontWeight:"400"}],"headline-lg":["48px",{lineHeight:"56px",letterSpacing:"-0.02em",fontWeight:"400"}],"title-md":["14px",{lineHeight:"20px",letterSpacing:"0.06em",fontWeight:"500"}],"label-mono-sm":["10px",{lineHeight:"14px",letterSpacing:"0.12em",fontWeight:"500"}],"title-lg":["16px",{lineHeight:"24px",letterSpacing:"0.08em",fontWeight:"600"}],"body-md":["14px",{lineHeight:"24px",letterSpacing:"0em",fontWeight:"400"}],"body-sm":["12px",{lineHeight:"18px",letterSpacing:"0.01em",fontWeight:"400"}],"body-lg":["16px",{lineHeight:"28px",letterSpacing:"-0.01em",fontWeight:"300"}],"headline-display-mobile":["44px",{lineHeight:"52px",letterSpacing:"-0.02em",fontWeight:"400"}],"label-caps":["11px",{lineHeight:"14px",letterSpacing:"0.14em",fontWeight:"600"}],"headline-md":["32px",{lineHeight:"40px",letterSpacing:"-0.01em",fontWeight:"400"}]}}}};</script></head><body class="bg-background font-body-md text-on-surface antialiased"><header class="fixed top-0 left-0 w-full z-50 bg-surface/95 backdrop-blur-md"><div class="bg-surface-container-lowest text-on-surface-variant border-b border-outline-variant/30 py-space-xs px-margin-mobile md:px-margin-tablet lg:px-margin text-center font-label-mono-sm text-label-mono-sm tracking-widest flex items-center justify-between gap-space-sm"><div class="hidden md:flex items-center gap-space-md text-on-surface-variant"><span class="flex items-center gap-space-xs text-secondary"><span class="material-symbols-outlined text-[14px]">support_agent</span>CONCIERGE: +91 9611623514</span><span class="text-outline-variant">•</span><a class="hover:text-primary transition-colors" href="mailto:bharathj0109@gmail.com">bharathj0109@gmail.com</a></div><div class="mx-auto md:mx-0 text-center tracking-widest text-on-surface uppercase"><span>WORLDWIDE ATELIER SHIPPING</span><span class="mx-space-xs text-outline-variant">•</span><span>COMPLIMENTARY ON ORDERS OVER ₹2,999</span></div><div class="hidden md:flex items-center gap-space-md"><a class="flex items-center gap-space-xs text-secondary hover:text-primary uppercase tracking-wider transition-colors" href="https://wa.me/919611623514" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-[14px]">chat</span>WHATSAPP DESK</a></div></div><div class="h-20 w-full px-margin-mobile md:px-margin-tablet lg:px-margin flex items-center justify-between border-b border-outline-variant/40"><div class="flex items-center gap-space-lg"><a class="flex items-center gap-space-sm group" data-path="home" href="#"><img alt="OUTFIT THEORY Monogram &amp; Wordmark" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VcYT6Zm0--kwpV5zSspr2o2Z0BfVnd2xA4oKg8YX6FfePy-h62d2S59vtwObaoQEW9kOlTwFOtlNkeAAflsi9lpN3s7CsuBkMI9Yur7b3BOgmRinB7y1sKlJhkDeWD9SXtmCAGeKSnS-I71pQY7sq77tdU-VjE_EaS9EM_C0o5u-rDguaF5r7-dHxzup92CJ6NflyKDNmo41PCripRUy6Fxx_z6VXIOS9TgUEsEOWh"/><span class="font-headline-sm text-headline-sm tracking-widest text-primary uppercase hidden sm:inline-block">OUTFIT THEORY</span></a><nav class="hidden xl:flex items-center gap-space-md" data-active-classes="text-primary border-b border-primary"><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="home" href="#">Home</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="shop" href="#">Shop</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="collections" href="#">Collections</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="customise-your-outfit" href="#">Customise Your Outfit</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="bulk-corporate-orders" href="#">Bulk &amp; Corporate Orders</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="about-us" href="#">About Us</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="contact" href="#">Contact</a></nav></div><div class="flex items-center gap-space-sm md:gap-space-md"><button class="hidden lg:flex items-center gap-space-xs px-space-sm py-1.5 border border-outline-variant/50 bg-surface-container-low text-on-surface-variant hover:text-on-surface hover:border-outline transition-all" type="button"><span class="material-symbols-outlined text-[16px]">location_on</span><span class="font-label-mono-sm text-label-mono-sm tracking-wider uppercase">DELIVERY: IN / PIN CODE</span></button><button aria-label="Search Lookbook" class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center justify-center" type="button"><span class="material-symbols-outlined text-[20px]">search</span></button><a aria-label="User Profile" class="p-2 text-on-surface-variant hover:text-primary transition-colors hidden sm:flex items-center justify-center" data-path="custom-orders-portal" href="#"><span class="material-symbols-outlined text-[20px]">account_circle</span></a><button aria-label="Bag Cart" class="relative p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center justify-center" type="button"><span class="material-symbols-outlined text-[20px]">shopping_bag</span><span class="absolute top-1 right-1 w-4 h-4 bg-primary text-on-primary font-label-mono-sm text-[9px] flex items-center justify-center font-bold">0</span></button><a class="hidden 2xl:flex items-center gap-space-xs px-space-sm py-1.5 border border-outline-variant/60 font-label-mono-sm text-label-mono-sm tracking-wider text-secondary uppercase hover:border-primary hover:text-primary transition-colors" href="https://wa.me/919611623514" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-[14px]">headset_mic</span>+91 9611623514</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-28 bg-background min-h-screen"><div class="flex flex-col w-full">
+<!-- EXECUTIVE COMMAND PANEL -->
+<section class="w-full bg-surface-container-lowest px-margin-mobile md:px-margin-tablet lg:px-margin py-space-md">
+<div class="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-space-md">
+<div class="space-y-1">
+<div class="flex items-center gap-space-sm flex-wrap">
+<span class="font-label-mono-sm text-label-mono-sm tracking-widest text-secondary px-2 py-0.5 bg-surface-container-high uppercase">OUTFIT THEORY ATELIER OS • OWNER PORTAL (v2.4)</span>
+<span class="inline-flex items-center gap-1.5 px-2 py-0.5 font-label-mono-sm text-label-mono-sm text-primary bg-surface-container">
+<span class="w-1.5 h-1.5 rounded-full bg-primary animate-pulse"></span>
+            LIVE PRODUCTION ACTIVE
+          </span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">RAZORPAY INTEGRATION • WHATSAPP CLOUD API ONLINE</span>
+</div>
+<div class="flex items-center gap-space-sm text-on-surface">
+<span class="font-headline-sm text-headline-sm uppercase tracking-wide">Owner Console // Bharath J</span>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary px-2 py-0.5 bg-surface-container-low uppercase">+91 9611623514</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">bharathj0109@gmail.com</span>
+</div>
+</div>
+<!-- Quick Context Switcher & Status Pill -->
+<div class="flex items-center gap-space-sm flex-wrap">
+<div class="px-space-md py-2 bg-surface-container-low text-right">
+<span class="block font-label-mono-sm text-label-mono-sm text-outline uppercase tracking-wider">Bengaluru Studio Clock</span>
+<span class="font-title-md text-title-md text-primary font-mono" id="atelier-clock">14:48:21 IST</span>
+</div>
+<button class="flex items-center gap-space-xs px-space-md py-2.5 bg-surface-container-high hover:bg-surface-bright text-on-surface font-label-caps text-label-caps uppercase tracking-widest transition-colors" id="test-alert-btn">
+<span class="material-symbols-outlined text-[16px] text-secondary">notifications_active</span>
+          Test Owner Alert
+        </button>
+<a class="flex items-center gap-space-xs px-space-md py-2.5 bg-primary text-on-primary font-label-caps text-label-caps uppercase tracking-widest transition-opacity hover:opacity-90" href="https://wa.me/919611623514" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-[16px]">chat</span>
+          WhatsApp Desk
+        </a>
+</div>
+</div>
+<!-- Quick Filter Navigation Tabs -->
+<div class="mt-space-md pt-space-sm flex items-center gap-space-md overflow-x-auto">
+<button class="font-label-caps text-label-caps uppercase text-primary bg-surface-container-high px-space-md py-2 transition-colors">Executive Overview</button>
+<button class="font-label-caps text-label-caps uppercase text-outline hover:text-on-surface px-space-md py-2 transition-colors">Order Management (142)</button>
+<button class="font-label-caps text-label-caps uppercase text-outline hover:text-on-surface px-space-md py-2 transition-colors">WhatsApp Cloud Logs</button>
+<button class="font-label-caps text-label-caps uppercase text-outline hover:text-on-surface px-space-md py-2 transition-colors">Atelier Blank Inventory</button>
+<button class="font-label-caps text-label-caps uppercase text-outline hover:text-on-surface px-space-md py-2 transition-colors">B2B Bulk Pipeline (8)</button>
+</div>
+</section>
+<!-- OPERATIONAL METRIC TILES (Bento Style) -->
+<section class="w-full px-margin-mobile md:px-margin-tablet lg:px-margin py-space-lg">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-gutter">
+<!-- Metric 1 -->
+<div class="p-space-md bg-surface-container-low flex flex-col justify-between space-y-space-md shadow-md">
+<div class="flex items-center justify-between">
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase tracking-wider">Gross Atelier Volume</span>
+<span class="material-symbols-outlined text-[18px] text-secondary">payments</span>
+</div>
+<div>
+<div class="font-headline-md text-headline-md text-primary">₹4,82,450</div>
+<div class="flex items-center gap-1 font-label-mono-sm text-label-mono-sm text-secondary mt-1">
+<span class="material-symbols-outlined text-[14px]">trending_up</span>
+<span>+18.4% VS LAST 7 DAYS</span>
+</div>
+</div>
+<div class="h-1.5 w-full bg-surface-container-highest">
+<div class="h-full bg-primary" style="width: 78%;"></div>
+</div>
+</div>
+<!-- Metric 2 -->
+<div class="p-space-md bg-surface-container-low flex flex-col justify-between space-y-space-md shadow-md">
+<div class="flex items-center justify-between">
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase tracking-wider">Total Atelier Orders</span>
+<span class="material-symbols-outlined text-[18px] text-secondary">shopping_bag</span>
+</div>
+<div>
+<div class="font-headline-md text-headline-md text-primary">142</div>
+<div class="font-label-mono-sm text-label-mono-sm text-outline mt-1">LIFETIME RUNWAY DISPATCHES</div>
+</div>
+<div class="flex items-center justify-between font-label-mono-sm text-label-mono-sm text-outline">
+<span>DTC: 114</span>
+<span>BULK/B2B: 28</span>
+</div>
+</div>
+<!-- Metric 3 -->
+<div class="p-space-md bg-surface-container-low flex flex-col justify-between space-y-space-md shadow-md">
+<div class="flex items-center justify-between">
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase tracking-wider">Awaiting Vector Proof</span>
+<span class="material-symbols-outlined text-[18px] text-primary">brush</span>
+</div>
+<div>
+<div class="font-headline-md text-headline-md text-primary">18</div>
+<div class="font-label-mono-sm text-label-mono-sm text-secondary mt-1">REQUIRES OWNER VERIFICATION</div>
+</div>
+<div class="px-2 py-1 bg-surface-container text-primary font-label-mono-sm text-label-mono-sm flex items-center justify-between">
+<span>PRIORITY DTG QUEUE</span>
+<span>12 HIGH</span>
+</div>
+</div>
+<!-- Metric 4 -->
+<div class="p-space-md bg-surface-container-low flex flex-col justify-between space-y-space-md shadow-md">
+<div class="flex items-center justify-between">
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase tracking-wider">Active Garments In Loom</span>
+<span class="material-symbols-outlined text-[18px] text-secondary">precision_manufacturing</span>
+</div>
+<div>
+<div class="font-headline-md text-headline-md text-primary">24</div>
+<div class="font-label-mono-sm text-label-mono-sm text-outline mt-1">DTG / LUREX EMBROIDERY RUN</div>
+</div>
+<div class="flex items-center gap-1 font-label-mono-sm text-label-mono-sm text-secondary">
+<span class="w-2 h-2 rounded-full bg-primary inline-block"></span>
+<span>AVERAGE RUNTIME: 26 HRS</span>
+</div>
+</div>
+<!-- Metric 5 -->
+<div class="p-space-md bg-surface-container-low flex flex-col justify-between space-y-space-md shadow-md">
+<div class="flex items-center justify-between">
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase tracking-wider">WhatsApp Cloud API</span>
+<span class="material-symbols-outlined text-[18px] text-secondary">mark_chat_read</span>
+</div>
+<div>
+<div class="font-headline-md text-headline-md text-primary">99.4%</div>
+<div class="font-label-mono-sm text-label-mono-sm text-secondary mt-1">0 DROPPED • DISPATCH SPEED 1.2S</div>
+</div>
+<div class="flex items-center justify-between font-label-mono-sm text-label-mono-sm text-outline">
+<span>SYNC: BHARATH J</span>
+<span class="text-primary font-semibold">ACTIVE</span>
+</div>
+</div>
+</div>
+</section>
+<!-- MAIN OPERATIONAL WORKSPACE: SPLIT GRID -->
+<div class="w-full px-margin-mobile md:px-margin-tablet lg:px-margin grid grid-cols-1 lg:grid-cols-12 gap-gutter pb-space-xl">
+<!-- LEFT COLUMN: ORDER INSPECTION SUITE & ARTWORK APPROVAL -->
+<div class="lg:col-span-8 space-y-space-lg">
+<!-- Filter Bar -->
+<div class="bg-surface-container-low p-space-md flex flex-col sm:flex-row items-stretch sm:items-center justify-between gap-space-sm">
+<div class="flex items-center gap-space-xs flex-wrap">
+<button class="px-space-md py-1.5 bg-primary text-on-primary font-label-caps text-label-caps uppercase">All (142)</button>
+<button class="px-space-md py-1.5 bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase">Vector Proof (12)</button>
+<button class="px-space-md py-1.5 bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase">Production (24)</button>
+<button class="px-space-md py-1.5 bg-surface-container text-on-surface-variant hover:text-on-surface font-label-caps text-label-caps uppercase">Dispatched (86)</button>
+</div>
+<div class="relative min-w-[240px]">
+<span class="material-symbols-outlined text-[16px] text-outline absolute left-3 top-3">search</span>
+<input class="w-full bg-surface-container-lowest text-on-surface pl-9 pr-3 py-2 font-label-mono-sm text-label-mono-sm uppercase focus:outline-none placeholder:text-outline" placeholder="SEARCH ORDER ID, CLIENT, PIN..." type="text"/>
+</div>
+</div>
+<!-- MASTER INSPECTOR CARD: ORDER #OT-1094 -->
+<div class="bg-surface-container-low shadow-xl">
+<!-- Header Strip -->
+<div class="p-space-md bg-surface-container flex flex-col sm:flex-row items-start sm:items-center justify-between gap-space-sm">
+<div class="space-y-1">
+<div class="flex items-center gap-space-sm flex-wrap">
+<span class="font-headline-sm text-headline-sm text-primary uppercase">Order #OT-1094</span>
+<span class="px-2 py-0.5 bg-surface-container-highest text-primary font-label-mono-sm text-label-mono-sm uppercase">Bespoke Atelier Custom</span>
+<span class="px-2 py-0.5 bg-primary text-on-primary font-label-mono-sm text-label-mono-sm uppercase font-semibold">PAID • ₹7,597 via UPI</span>
+</div>
+<p class="font-label-mono-sm text-label-mono-sm text-outline">RAZORPAY ID: pay_Nq9281hsa76 • ORDERED: TODAY 14:18 IST • ATELIER SLOT: #1</p>
+</div>
+<div class="flex items-center gap-space-xs">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary uppercase">Status:</span>
+<select class="bg-surface-container-lowest text-primary font-label-caps text-label-caps uppercase px-space-sm py-2 focus:outline-none cursor-pointer">
+<option>In Production // Printing</option>
+<option>Order Confirmed</option>
+<option>Awaiting Proof Verification</option>
+<option>Dispatched // AWB Assigned</option>
+<option>Delivered to Concierge</option>
+</select>
+</div>
+</div>
+<div class="p-space-md md:p-space-lg space-y-space-lg">
+<!-- Client & Destination Data Strip -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter bg-surface-container-lowest p-space-md">
+<div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase block mb-1">Patron Details</span>
+<div class="font-title-md text-title-md text-primary">Arjun Nair</div>
+<div class="font-body-sm text-body-sm text-secondary">+91 98450 12890</div>
+<div class="font-label-mono-sm text-label-mono-sm text-outline truncate">arjun.nair@atelier.design</div>
+</div>
+<div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase block mb-1">Delivery Atelier Coordinates</span>
+<div class="font-body-md text-body-md text-on-surface">Residence Penthouse 4B</div>
+<div class="font-body-sm text-body-sm text-secondary">Lavelle Road, Bengaluru</div>
+<div class="font-label-mono-sm text-label-mono-sm text-outline">PIN: 560001 • KA, INDIA</div>
+</div>
+<div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase block mb-1">Garment Specifications</span>
+<div class="font-body-md text-body-md text-primary font-semibold">1x Heavyweight Oversized Hoodie</div>
+<div class="font-body-sm text-body-sm text-secondary">420 GSM French Terry Cotton</div>
+<div class="font-label-mono-sm text-label-mono-sm text-outline">Color: Obsidian Black • Size: M</div>
+</div>
+</div>
+<!-- Bespoke Production & Artwork Preview Suite -->
+<div class="grid grid-cols-1 md:grid-cols-12 gap-gutter items-start">
+<!-- Visual Proof Box (3:4 Ratio Framing) -->
+<div class="md:col-span-5 bg-surface-container-lowest p-space-md space-y-space-sm">
+<div class="flex items-center justify-between">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary uppercase">Vector Master Preview</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">300 DPI CMYK</span>
+</div>
+<div class="relative w-full aspect-[4/5] bg-surface-container flex items-center justify-center overflow-hidden group">
+<img class="w-full h-full object-cover grayscale contrast-125" data-alt="Editorial close-up of a luxury bespoke black hoodie with high-resolution geometric architectural white graphic printed on the chest, studio dramatic lighting, high contrast luxury streetwear aesthetic, atelier craftsmanship." src="https://lh3.googleusercontent.com/aida-public/AB6AXuA91viOU3iZnNj7E3Wg43K9n2IABbeyff_xpXlAiYB4-A_U3OlTM20nG4Y8Vn81hMDgyJ6CzusUZiVZREDg4i2dUBxoNpVJNI9QgUPvNC_tLJ7Q7NEdp7cNRl3nMHGsGyQqjdNs2fghFILrYwqx0OkPvTmnFQ_A-IA1OkXlhPf460Gs2Lqd9ta1bECh5Hbhm4dxvKLxNocnpaj0mEM3jxrmFfLAz_Rjrj4KS0tEj8n2"/>
+<div class="absolute inset-0 bg-surface-container-lowest/60 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity p-space-md text-center">
+<span class="font-label-caps text-label-caps text-primary uppercase mb-2">ARCHITECTURAL_SIG_01.PNG</span>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary mb-4">4.2 MB • Alpha Layer Verified</span>
+<button class="px-space-md py-2 bg-primary text-on-primary font-label-caps text-label-caps uppercase">Inspect Print Grid</button>
+</div>
+</div>
+<div class="space-y-1">
+<div class="flex items-center justify-between font-label-mono-sm text-label-mono-sm text-outline">
+<span>PRINT TECHNIQUE:</span>
+<span class="text-on-surface">DIGITAL DTG + METALLIC LUREX</span>
+</div>
+<div class="flex items-center justify-between font-label-mono-sm text-label-mono-sm text-outline">
+<span>PRINT POSITION:</span>
+<span class="text-on-surface">FRONT CHEST (280mm x 340mm)</span>
+</div>
+</div>
+</div>
+<!-- Customization Breakdown & Master Actions -->
+<div class="md:col-span-7 space-y-space-md flex flex-col justify-between h-full">
+<div class="space-y-space-sm">
+<span class="font-label-caps text-label-caps text-secondary uppercase tracking-widest block">Custom Engineering Directives</span>
+<div class="p-space-md bg-surface-container-lowest space-y-2">
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-[16px] text-primary mt-1">check_circle</span>
+<div>
+<span class="font-title-md text-title-md text-primary">High-Def DTG Primary Emblem</span>
+<p class="font-body-sm text-body-sm text-outline">White micro-pigment ink formulation on obsidian loopback grain.</p>
+</div>
+</div>
+<div class="flex items-start gap-space-xs">
+<span class="material-symbols-outlined text-[16px] text-primary mt-1">check_circle</span>
+<div>
+<span class="font-title-md text-title-md text-primary">Silver Lurex Monogram (Left Wrist)</span>
+<p class="font-body-sm text-body-sm text-outline">Metallic high-tensile thread 'OT-AN' 14mm monogram.</p>
+</div>
+</div>
+<div class="p-space-sm bg-surface-container text-secondary font-label-mono-sm text-label-mono-sm">
+<span class="text-primary font-semibold block uppercase">Client Private Notes:</span>
+                    "Distressed cuff edges, silver thread accent on drawcord ends. Delivery required prior to Saturday Milan departure."
+                  </div>
+</div>
+</div>
+<!-- Artwork Approval CTAs -->
+<div class="space-y-space-sm">
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-space-sm">
+<button class="w-full py-3 bg-surface-container hover:bg-surface-bright text-on-surface font-label-caps text-label-caps uppercase flex items-center justify-center gap-space-xs transition-colors">
+<span class="material-symbols-outlined text-[16px]">file_download</span>
+                    Download Master (4.2 MB)
+                  </button>
+<button class="w-full py-3 bg-surface-container hover:bg-surface-bright text-on-surface font-label-caps text-label-caps uppercase flex items-center justify-center gap-space-xs transition-colors">
+<span class="material-symbols-outlined text-[16px]">view_in_ar</span>
+                    View 3D Atelier Render
+                  </button>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-space-sm">
+<a class="w-full py-3 bg-primary text-on-primary font-label-caps text-label-caps uppercase flex items-center justify-center gap-space-xs transition-opacity hover:opacity-90" href="https://wa.me/919845012890?text=Hello%20Arjun,%20Bharath%20here%20from%20OUTFIT%20THEORY%20Atelier.%20Your%20bespoke%20Hoodie%20(Order%20%23OT-1094)%20has%20been%20reviewed%20and%20vector%20proof%20approved.%20We%20are%20initiating%20DTG%20and%20silver%20lurex%20embroidery%20today." rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-[16px]">chat</span>
+                    WhatsApp Client Update
+                  </a>
+<button class="w-full py-3 bg-surface-container-high hover:bg-surface-bright text-secondary font-label-caps text-label-caps uppercase flex items-center justify-center gap-space-xs transition-colors">
+<span class="material-symbols-outlined text-[16px]">factory</span>
+                    Transmit To Workshop
+                  </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Order List Quick Strip -->
+<div class="p-space-md bg-surface-container-lowest flex flex-col md:flex-row items-center justify-between gap-space-md">
+<div class="flex items-center gap-space-md text-outline font-label-mono-sm text-label-mono-sm">
+<span>QUEUED ORDERS:</span>
+<span class="text-on-surface">#OT-1093 (RVCE Forum)</span>
+<span>•</span>
+<span class="text-on-surface">#OT-1092 (Kavya Rao)</span>
+<span>•</span>
+<span class="text-on-surface">#OT-1091 (Rohan S)</span>
+</div>
+<button class="font-label-caps text-label-caps uppercase text-secondary hover:text-primary transition-colors flex items-center gap-1">
+            Load Full 142 Orders Table
+            <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+</button>
+</div>
+</div>
+<!-- SECONDARY OPERATIONAL MODULE: BLANK INVENTORY MONITOR -->
+<div class="bg-surface-container-low p-space-md space-y-space-md">
+<div class="flex items-center justify-between">
+<div class="space-y-0.5">
+<span class="font-label-caps text-label-caps text-secondary uppercase tracking-widest">Atelier Raw Material Stock</span>
+<h3 class="font-headline-sm text-headline-sm text-primary">Blank Silhouette Vault</h3>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline uppercase">Live Mill Sync</span>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-3 gap-gutter">
+<div class="p-space-md bg-surface-container-lowest space-y-2">
+<div class="flex justify-between items-center">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary uppercase">420 GSM French Terry</span>
+<span class="font-label-mono-sm text-label-mono-sm text-primary font-bold">184 PCS</span>
+</div>
+<div class="h-1 bg-surface-container">
+<div class="h-full bg-primary" style="width: 72%;"></div>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">Obsidian Black (110) • Bone White (74)</span>
+</div>
+<div class="p-space-md bg-surface-container-lowest space-y-2">
+<div class="flex justify-between items-center">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary uppercase">280 GSM Compact Jersey</span>
+<span class="font-label-mono-sm text-label-mono-sm text-primary font-bold">310 PCS</span>
+</div>
+<div class="h-1 bg-surface-container">
+<div class="h-full bg-primary" style="width: 88%;"></div>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">Vintage Boxy Fit (XS to XXL)</span>
+</div>
+<div class="p-space-md bg-surface-container-lowest space-y-2">
+<div class="flex justify-between items-center">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary uppercase">60s Twill Structured Shirts</span>
+<span class="font-label-mono-sm text-label-mono-sm text-primary font-bold">92 PCS</span>
+</div>
+<div class="h-1 bg-surface-container">
+<div class="h-full bg-secondary" style="width: 38%;"></div>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">Low Stock Alert: Reorder Mill Batch</span>
+</div>
+</div>
+</div>
+</div>
+<!-- RIGHT COLUMN: REAL-TIME WHATSAPP CLOUD API LOGS & ATELIER DISPATCH -->
+<div class="lg:col-span-4 space-y-space-md">
+<!-- WhatsApp Gateway Realtime Card -->
+<div class="bg-surface-container-low p-space-md space-y-space-md shadow-xl">
+<div class="flex items-center justify-between pb-space-sm bg-surface-container-low">
+<div>
+<div class="flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-primary animate-ping"></span>
+<span class="font-headline-sm text-headline-sm text-primary uppercase">WhatsApp Logs</span>
+</div>
+<p class="font-label-mono-sm text-label-mono-sm text-outline">Dispatches to Bharath J (+91 9611623514) &amp; Clients</p>
+</div>
+<span class="px-2 py-1 bg-surface-container text-secondary font-label-mono-sm text-label-mono-sm uppercase">Cloud v18.0</span>
+</div>
+<!-- Quick Gateway Health Panel -->
+<div class="p-space-sm bg-surface-container-lowest flex items-center justify-between">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-[16px] text-primary">verified</span>
+<span class="font-label-mono-sm text-label-mono-sm text-on-surface">META CLOUD GATEWAY: OK</span>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline font-mono">LATENCY: 140ms</span>
+</div>
+<!-- Live Feed Items -->
+<div class="space-y-space-sm">
+<!-- Dispatch 1 -->
+<div class="p-space-sm bg-surface-container-lowest space-y-2">
+<div class="flex items-center justify-between">
+<span class="px-1.5 py-0.5 bg-surface-container-high text-primary font-label-mono-sm text-label-mono-sm font-semibold uppercase">Order #OT-1094</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline font-mono">Today, 14:32 IST</span>
+</div>
+<div class="space-y-0.5">
+<div class="font-title-md text-title-md text-on-surface">Event: NEW_ORDER_VERIFIED</div>
+<p class="font-body-sm text-body-sm text-secondary font-mono text-[11px] leading-relaxed">
+                Template: <span class="text-primary">outfit_theory_order_v2</span><br/>
+                Dest: Owner (+91 9611623514) &amp; Client (+91 98450 12890)<br/>
+                Payload: "Hoodie 420 GSM (M) • ₹7,597 • Artwork Vector Verified"
+              </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="inline-flex items-center gap-1 font-label-mono-sm text-label-mono-sm text-secondary">
+<span class="material-symbols-outlined text-[14px] text-primary">done_all</span>
+                DELIVERED &amp; READ
+              </span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">HTTP 200 OK</span>
+</div>
+</div>
+<!-- Dispatch 2 -->
+<div class="p-space-sm bg-surface-container-lowest space-y-2">
+<div class="flex items-center justify-between">
+<span class="px-1.5 py-0.5 bg-surface-container text-secondary font-label-mono-sm text-label-mono-sm uppercase">Inquiry #B2B-408</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline font-mono">Today, 11:15 IST</span>
+</div>
+<div class="space-y-0.5">
+<div class="font-title-md text-title-md text-on-surface">Event: BULK_QUOTE_INQUIRY</div>
+<p class="font-body-sm text-body-sm text-secondary font-mono text-[11px] leading-relaxed">
+                Template: <span class="text-primary">atelier_bulk_concierge</span><br/>
+                Dest: Owner (+91 9611623514)<br/>
+                Payload: "RVCE Cultural Forum • 1,200 French Terry Hoodies • Target ₹1,850/pc"
+              </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="inline-flex items-center gap-1 font-label-mono-sm text-label-mono-sm text-secondary">
+<span class="material-symbols-outlined text-[14px] text-primary">done_all</span>
+                NOTIFIED BHARATH J
+              </span>
+<a class="font-label-mono-sm text-label-mono-sm text-primary underline" href="https://wa.me/919611623514">OPEN THREAD</a>
+</div>
+</div>
+<!-- Dispatch 3 -->
+<div class="p-space-sm bg-surface-container-lowest space-y-2">
+<div class="flex items-center justify-between">
+<span class="px-1.5 py-0.5 bg-surface-container text-outline font-label-mono-sm text-label-mono-sm uppercase">Shipment #OT-1088</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline font-mono">Yesterday, 19:40 IST</span>
+</div>
+<div class="space-y-0.5">
+<div class="font-title-md text-title-md text-on-surface">Event: DISPATCH_TRACKING</div>
+<p class="font-body-sm text-body-sm text-secondary font-mono text-[11px] leading-relaxed">
+                Template: <span class="text-primary">atelier_logistics_v1</span><br/>
+                Dest: Client (+91 96110 44211)<br/>
+                Payload: "Bluedart Air Express AWB: 489102391 • Out for Delivery"
+              </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="inline-flex items-center gap-1 font-label-mono-sm text-label-mono-sm text-secondary">
+<span class="material-symbols-outlined text-[14px]">done_all</span>
+                DELIVERED
+              </span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">COURIER SYNCED</span>
+</div>
+</div>
+<!-- Dispatch 4 -->
+<div class="p-space-sm bg-surface-container-lowest space-y-2 opacity-75">
+<div class="flex items-center justify-between">
+<span class="px-1.5 py-0.5 bg-surface-container text-outline font-label-mono-sm text-label-mono-sm uppercase">System Health Check</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline font-mono">Today, 06:00 IST</span>
+</div>
+<div class="space-y-0.5">
+<div class="font-title-md text-title-md text-on-surface">Event: CRON_PING_OK</div>
+<p class="font-body-sm text-body-sm text-secondary font-mono text-[11px]">
+                Payload: "Queue 0 dropped messages. Webhook heartbeat nominal."
+              </p>
+</div>
+<div class="flex items-center justify-between pt-1">
+<span class="font-label-mono-sm text-label-mono-sm text-outline">AUTO RETRY MONITOR: IDLE</span>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary">PASS</span>
+</div>
+</div>
+</div>
+<!-- Manual Dispatch Action -->
+<div class="pt-space-sm space-y-space-sm">
+<form class="space-y-space-xs" id="manual-wa-form">
+<label class="block font-label-mono-sm text-label-mono-sm text-outline uppercase">Manual Push Alert to Owner (+91 9611623514)</label>
+<div class="flex">
+<input class="w-full bg-surface-container-lowest text-on-surface px-3 py-2 font-label-mono-sm text-label-mono-sm focus:outline-none placeholder:text-outline" id="wa-manual-input" placeholder="URGENT ATELIER NOTE..." type="text"/>
+<button class="bg-primary text-on-primary font-label-caps text-label-caps uppercase px-space-md py-2 whitespace-nowrap" type="submit">Push</button>
+</div>
+</form>
+<div class="hidden p-2 bg-surface-container text-primary font-label-mono-sm text-label-mono-sm text-center" id="wa-feedback">
+            Message routed to WhatsApp Cloud queue for +91 9611623514.
+          </div>
+</div>
+</div>
+<!-- Quick Executive Contacts Module -->
+<div class="bg-surface-container-low p-space-md space-y-space-sm">
+<span class="font-label-caps text-label-caps text-secondary uppercase tracking-widest block">Atelier Infrastructure Rails</span>
+<div class="space-y-2 text-on-surface font-label-mono-sm text-label-mono-sm">
+<div class="flex items-center justify-between p-2 bg-surface-container-lowest">
+<span>DIRECTOR WHATSAPP:</span>
+<span class="text-primary font-semibold">+91 9611623514</span>
+</div>
+<div class="flex items-center justify-between p-2 bg-surface-container-lowest">
+<span>OFFICIAL CONCIERGE:</span>
+<span class="text-primary truncate ml-2">bharathj0109@gmail.com</span>
+</div>
+<div class="flex items-center justify-between p-2 bg-surface-container-lowest">
+<span>PAYMENT RAILS:</span>
+<span class="text-secondary">Razorpay Enterprise + Cashfree</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+  // Simple administrative UI interactions
+  const clockElement = document.getElementById('atelier-clock');
+  function updateAtelierClock() {
+    if (!clockElement) return;
+    const now = new Date();
+    const hours = String(now.getHours()).padStart(2, '0');
+    const minutes = String(now.getMinutes()).padStart(2, '0');
+    const seconds = String(now.getSeconds()).padStart(2, '0');
+    clockElement.textContent = hours + ':' + minutes + ':' + seconds + ' IST';
+  }
+  setInterval(updateAtelierClock, 1000);
+  updateAtelierClock();
+
+  // Test Alert Trigger Simulation
+  const testAlertBtn = document.getElementById('test-alert-btn');
+  const feedback = document.getElementById('wa-feedback');
+  if (testAlertBtn && feedback) {
+    testAlertBtn.addEventListener('click', () => {
+      feedback.classList.remove('hidden');
+      feedback.textContent = 'Simulated Ping Sent: Owner WhatsApp +91 9611623514 confirmed active.';
+      setTimeout(() => {
+        feedback.classList.add('hidden');
+      }, 5000);
+    });
+  }
+
+  // Manual Dispatch Form
+  const manualWaForm = document.getElementById('manual-wa-form');
+  const manualInput = document.getElementById('wa-manual-input');
+  if (manualWaForm && feedback && manualInput) {
+    manualWaForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      if (!manualInput.value.trim()) return;
+      feedback.classList.remove('hidden');
+      feedback.textContent = 'Dispatched: "' + manualInput.value.trim() + '" sent to +91 9611623514 via WhatsApp Cloud API.';
+      manualInput.value = '';
+      setTimeout(() => {
+        feedback.classList.add('hidden');
+      }, 5000);
+    });
+  }
+</script></main><footer class="w-full bg-surface-container-lowest border-t border-outline-variant/30 text-on-surface-variant"><div class="w-full px-margin-mobile md:px-margin-tablet lg:px-margin py-space-xl grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter"><div class="lg:col-span-4 space-y-space-md"><div class="flex items-center gap-space-sm"><img alt="OUTFIT THEORY Monogram" class="h-7 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VcYT6Zm0--kwpV5zSspr2o2Z0BfVnd2xA4oKg8YX6FfePy-h62d2S59vtwObaoQEW9kOlTwFOtlNkeAAflsi9lpN3s7CsuBkMI9Yur7b3BOgmRinB7y1sKlJhkDeWD9SXtmCAGeKSnS-I71pQY7sq77tdU-VjE_EaS9EM_C0o5u-rDguaF5r7-dHxzup92CJ6NflyKDNmo41PCripRUy6Fxx_z6VXIOS9TgUEsEOWh"/><span class="font-headline-sm text-headline-sm tracking-widest text-primary uppercase">OUTFIT THEORY</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm">Editorial Haute Fashion &amp; Structural Garment Engineering. Precision tailoring meets minimal architectural poise.</p><div class="pt-space-sm font-label-mono-sm text-label-mono-sm space-y-1 text-outline"><p class="text-secondary uppercase tracking-widest">DIRECT ATELIER CONCIERGE</p><p class="text-on-surface">TEL: +91 9611623514</p><p class="text-on-surface">SUPPORT: bharathj0109@gmail.com</p></div></div><div class="lg:col-span-2 space-y-space-sm"><h4 class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-outline-variant/30 pb-2">Curations</h4><ul class="space-y-2 font-body-sm text-body-sm"><li><a class="hover:text-primary transition-colors" data-path="shop" href="#">Heavyweight Hoodies</a></li><li><a class="hover:text-primary transition-colors" data-path="shop" href="#">Sculptural T-Shirts</a></li><li><a class="hover:text-primary transition-colors" data-path="shop" href="#">Tailored Cotton Shirts</a></li><li><a class="hover:text-primary transition-colors" data-path="customise-your-outfit" href="#">Custom Apparel Atelier</a></li><li><a class="hover:text-primary transition-colors" data-path="bulk-corporate-orders" href="#">Bulk &amp; B2B Orders</a></li></ul></div><div class="lg:col-span-2 space-y-space-sm"><h4 class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-outline-variant/30 pb-2">Client Care</h4><ul class="space-y-2 font-body-sm text-body-sm"><li><a class="hover:text-primary transition-colors" data-path="shipping-and-returns" href="#">Worldwide Shipping</a></li><li><a class="hover:text-primary transition-colors" data-path="shipping-and-returns" href="#">Returns &amp; Exchanges</a></li><li><a class="hover:text-primary transition-colors" data-path="privacy-policy" href="#">Privacy Policy</a></li><li><a class="hover:text-primary transition-colors" data-path="terms-and-conditions" href="#">Terms of Service</a></li><li><a class="hover:text-primary transition-colors" data-path="contact" href="#">Concierge Desk</a></li></ul></div><div class="lg:col-span-4 space-y-space-md"><h4 class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-outline-variant/30 pb-2">Dispatches From The Atelier</h4><p class="font-body-sm text-body-sm text-on-surface-variant">Receive seasonal lookbooks, garment drops, and private atelier showings.</p><form class="flex items-center gap-0"><input class="w-full bg-surface border border-outline-variant/60 px-space-md py-3 text-on-surface font-label-mono-sm text-label-mono-sm focus:outline-none focus:border-primary placeholder:text-outline" placeholder="ENTER EMAIL FOR PRIVILEGED ACCESS" type="email"/><button class="bg-primary text-on-primary font-label-caps text-label-caps px-space-lg py-3 uppercase tracking-widest hover:bg-secondary-fixed hover:text-on-secondary transition-colors whitespace-nowrap" type="submit">JOIN</button></form><div class="pt-space-sm space-y-2"><span class="font-label-mono-sm text-label-mono-sm uppercase text-outline tracking-widest block">Verified Domestic &amp; International Rails</span><div class="flex items-center gap-space-md text-outline font-label-mono-sm text-label-mono-sm tracking-wider uppercase border border-outline-variant/20 p-2 bg-surface-container-low"><span class="text-on-surface font-semibold">RAZORPAY</span><span>•</span><span class="text-on-surface font-semibold">CASHFREE</span><span>•</span><span class="text-on-surface font-semibold">UPI</span><span>•</span><span class="text-on-surface font-semibold">CARDS</span></div></div></div></div><div class="border-t border-outline-variant/30 py-space-md px-margin-mobile md:px-margin-tablet lg:px-margin flex flex-col md:flex-row items-center justify-between gap-space-sm text-center font-label-mono-sm text-label-mono-sm text-outline"><p>© 2025 OUTFIT THEORY ATELIER. WEAR YOUR IDENTITY.</p><p class="tracking-widest uppercase">BENGALURU • MUMBAI • MILAN • TOKYO</p></div></footer></body></html>

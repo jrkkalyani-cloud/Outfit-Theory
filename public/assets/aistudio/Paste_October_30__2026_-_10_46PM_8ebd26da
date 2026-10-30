@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{colors:{"surface-container":"#201f1f","outline":"#8e9192","surface-container-low":"#1c1b1b","tertiary-fixed-dim":"#b9c8de","on-error-container":"#ffdad6","on-secondary-container":"#acb6c2","surface-container-high":"#2a2a2a","inverse-on-surface":"#313030","primary-fixed-dim":"#c6c6c7","error-container":"#93000a","on-primary-container":"#636565","on-tertiary-container":"#576679","on-surface":"#e5e2e1","surface-container-highest":"#353534","surface-variant":"#353534","surface-dim":"#131313","on-primary":"#2f3131","surface":"#131313","surface-bright":"#3a3939","on-tertiary-fixed-variant":"#39485a","secondary-container":"#3e4852","tertiary-fixed":"#d4e4fa","on-surface-variant":"#c4c7c8","on-secondary-fixed":"#131d25","inverse-surface":"#e5e2e1","secondary-fixed":"#dae3f0","error":"#ffb4ab","on-error":"#690005","on-secondary-fixed-variant":"#3e4852","on-secondary":"#28313b","secondary-fixed-dim":"#bdc8d3","tertiary":"#ffffff","background":"#131313","primary-container":"#e2e2e2","inverse-primary":"#5d5f5f","secondary":"#bdc8d3","tertiary-container":"#d4e4fa","primary-fixed":"#e2e2e2","on-tertiary":"#233143","on-background":"#e5e2e1","on-tertiary-fixed":"#0d1c2d","surface-tint":"#c6c6c7","surface-container-lowest":"#0e0e0e","on-primary-fixed-variant":"#454747","primary":"#ffffff","outline-variant":"#444748","on-primary-fixed":"#1a1c1c"},borderRadius:{DEFAULT:"0.25rem",lg:"0.5rem",xl:"0.75rem",full:"9999px"},spacing:{"space-xs":"0.25rem","margin-tablet":"2rem","space-md":"1rem","gutter":"1.5rem","space-xl":"4rem","gutter-mobile":"0.75rem","space-lg":"2rem","margin-mobile":"1.25rem","space-sm":"0.5rem","margin":"3.5rem"},fontFamily:{"headline-display":["Playfair Display"],"headline-sm":["Playfair Display"],"headline-lg-mobile":["Playfair Display"],"headline-lg":["Playfair Display"],"title-md":["Inter"],"label-mono-sm":["Inter"],"title-lg":["Inter"],"body-md":["Inter"],"body-sm":["Inter"],"body-lg":["Inter"],"headline-display-mobile":["Playfair Display"],"label-caps":["Inter"],"headline-md":["Playfair Display"]},fontSize:{"headline-display":["80px",{lineHeight:"88px",letterSpacing:"-0.03em",fontWeight:"400"}],"headline-sm":["22px",{lineHeight:"30px",letterSpacing:"0em",fontWeight:"500"}],"headline-lg-mobile":["32px",{lineHeight:"40px",letterSpacing:"-0.01em",fontWeight:"400"}],"headline-lg":["48px",{lineHeight:"56px",letterSpacing:"-0.02em",fontWeight:"400"}],"title-md":["14px",{lineHeight:"20px",letterSpacing:"0.06em",fontWeight:"500"}],"label-mono-sm":["10px",{lineHeight:"14px",letterSpacing:"0.12em",fontWeight:"500"}],"title-lg":["16px",{lineHeight:"24px",letterSpacing:"0.08em",fontWeight:"600"}],"body-md":["14px",{lineHeight:"24px",letterSpacing:"0em",fontWeight:"400"}],"body-sm":["12px",{lineHeight:"18px",letterSpacing:"0.01em",fontWeight:"400"}],"body-lg":["16px",{lineHeight:"28px",letterSpacing:"-0.01em",fontWeight:"300"}],"headline-display-mobile":["44px",{lineHeight:"52px",letterSpacing:"-0.02em",fontWeight:"400"}],"label-caps":["11px",{lineHeight:"14px",letterSpacing:"0.14em",fontWeight:"600"}],"headline-md":["32px",{lineHeight:"40px",letterSpacing:"-0.01em",fontWeight:"400"}]}}}};</script></head><body class="bg-background font-body-md text-on-surface antialiased"><header class="fixed top-0 left-0 w-full z-50 bg-surface/95 backdrop-blur-md"><div class="bg-surface-container-lowest text-on-surface-variant border-b border-outline-variant/30 py-space-xs px-margin-mobile md:px-margin-tablet lg:px-margin text-center font-label-mono-sm text-label-mono-sm tracking-widest flex items-center justify-between gap-space-sm"><div class="hidden md:flex items-center gap-space-md text-on-surface-variant"><span class="flex items-center gap-space-xs text-secondary"><span class="material-symbols-outlined text-[14px]">support_agent</span>CONCIERGE: +91 9611623514</span><span class="text-outline-variant">•</span><a class="hover:text-primary transition-colors" href="mailto:bharathj0109@gmail.com">bharathj0109@gmail.com</a></div><div class="mx-auto md:mx-0 text-center tracking-widest text-on-surface uppercase"><span>WORLDWIDE ATELIER SHIPPING</span><span class="mx-space-xs text-outline-variant">•</span><span>COMPLIMENTARY ON ORDERS OVER ₹2,999</span></div><div class="hidden md:flex items-center gap-space-md"><a class="flex items-center gap-space-xs text-secondary hover:text-primary uppercase tracking-wider transition-colors" href="https://wa.me/919611623514" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-[14px]">chat</span>WHATSAPP DESK</a></div></div><div class="h-20 w-full px-margin-mobile md:px-margin-tablet lg:px-margin flex items-center justify-between border-b border-outline-variant/40"><div class="flex items-center gap-space-lg"><a class="flex items-center gap-space-sm group" data-path="home" href="#"><img alt="OUTFIT THEORY Monogram &amp; Wordmark" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VcYT6Zm0--kwpV5zSspr2o2Z0BfVnd2xA4oKg8YX6FfePy-h62d2S59vtwObaoQEW9kOlTwFOtlNkeAAflsi9lpN3s7CsuBkMI9Yur7b3BOgmRinB7y1sKlJhkDeWD9SXtmCAGeKSnS-I71pQY7sq77tdU-VjE_EaS9EM_C0o5u-rDguaF5r7-dHxzup92CJ6NflyKDNmo41PCripRUy6Fxx_z6VXIOS9TgUEsEOWh"/><span class="font-headline-sm text-headline-sm tracking-widest text-primary uppercase hidden sm:inline-block">OUTFIT THEORY</span></a><nav class="hidden xl:flex items-center gap-space-md" data-active-classes="text-primary border-b border-primary"><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="home" href="#">Home</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="shop" href="#">Shop</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="collections" href="#">Collections</a><a aria-current="page" class="font-label-caps uppercase transition-colors py-1 text-primary border-b border-primary" data-path="customise-your-outfit" href="#">Customise Your Outfit</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="bulk-corporate-orders" href="#">Bulk &amp; Corporate Orders</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="about-us" href="#">About Us</a><a class="font-label-caps text-label-caps uppercase text-on-surface-variant hover:text-on-surface transition-colors py-1" data-path="contact" href="#">Contact</a></nav></div><div class="flex items-center gap-space-sm md:gap-space-md"><button class="hidden lg:flex items-center gap-space-xs px-space-sm py-1.5 border border-outline-variant/50 bg-surface-container-low text-on-surface-variant hover:text-on-surface hover:border-outline transition-all" type="button"><span class="material-symbols-outlined text-[16px]">location_on</span><span class="font-label-mono-sm text-label-mono-sm tracking-wider uppercase">DELIVERY: IN / PIN CODE</span></button><button aria-label="Search Lookbook" class="p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center justify-center" type="button"><span class="material-symbols-outlined text-[20px]">search</span></button><a aria-label="User Profile" class="p-2 text-on-surface-variant hover:text-primary transition-colors hidden sm:flex items-center justify-center" data-path="custom-orders-portal" href="#"><span class="material-symbols-outlined text-[20px]">account_circle</span></a><button aria-label="Bag Cart" class="relative p-2 text-on-surface-variant hover:text-primary transition-colors flex items-center justify-center" type="button"><span class="material-symbols-outlined text-[20px]">shopping_bag</span><span class="absolute top-1 right-1 w-4 h-4 bg-primary text-on-primary font-label-mono-sm text-[9px] flex items-center justify-center font-bold">0</span></button><a class="hidden 2xl:flex items-center gap-space-xs px-space-sm py-1.5 border border-outline-variant/60 font-label-mono-sm text-label-mono-sm tracking-wider text-secondary uppercase hover:border-primary hover:text-primary transition-colors" href="https://wa.me/919611623514" rel="noopener noreferrer" target="_blank"><span class="material-symbols-outlined text-[14px]">headset_mic</span>+91 9611623514</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-28 bg-background min-h-screen"><div class="flex flex-col w-full">
+<!-- Atelier Studio Command Header -->
+<section class="w-full bg-surface-container-lowest px-margin-mobile md:px-margin-tablet lg:px-margin py-space-md">
+<div class="flex flex-col lg:flex-row lg:items-center justify-between gap-space-md">
+<div class="space-y-1">
+<div class="flex items-center gap-space-xs text-outline font-label-mono-sm text-label-mono-sm uppercase tracking-widest">
+<span class="w-2 h-2 rounded-full bg-secondary animate-pulse"></span>
+<span>Bespoke Engineering Suite • System V2.4</span>
+</div>
+<h1 class="font-headline-sm text-headline-sm uppercase text-primary tracking-wide">
+          Atelier Custom Studio — Wear Your Identity
+        </h1>
+</div>
+<!-- Studio Stepper Indicator -->
+<nav aria-label="Customization Workflow Steps" class="flex items-center overflow-x-auto pb-2 lg:pb-0 gap-space-xs md:gap-space-sm font-label-mono-sm text-label-mono-sm tracking-wider uppercase">
+<div class="flex items-center gap-2 bg-surface px-3 py-2 text-primary whitespace-nowrap">
+<span class="w-4 h-4 bg-primary text-on-primary flex items-center justify-center font-bold text-[9px]">1</span>
+<span>Silhouette</span>
+</div>
+<span class="text-outline-variant">/</span>
+<div class="flex items-center gap-2 bg-surface px-3 py-2 text-primary whitespace-nowrap">
+<span class="w-4 h-4 bg-primary text-on-primary flex items-center justify-center font-bold text-[9px]">2</span>
+<span>Fabric &amp; Color</span>
+</div>
+<span class="text-outline-variant">/</span>
+<div class="flex items-center gap-2 bg-surface-container-high px-3 py-2 text-primary whitespace-nowrap">
+<span class="w-4 h-4 bg-secondary text-on-secondary flex items-center justify-center font-bold text-[9px]">3</span>
+<span class="font-semibold">Artwork &amp; Spec</span>
+</div>
+<span class="text-outline-variant">/</span>
+<div class="flex items-center gap-2 bg-surface px-3 py-2 text-outline whitespace-nowrap">
+<span class="w-4 h-4 bg-surface-container-highest text-outline flex items-center justify-center text-[9px]">4</span>
+<span>Mockup Engine</span>
+</div>
+<span class="text-outline-variant">/</span>
+<div class="flex items-center gap-2 bg-surface px-3 py-2 text-outline whitespace-nowrap">
+<span class="w-4 h-4 bg-surface-container-highest text-outline flex items-center justify-center text-[9px]">5</span>
+<span>Dispatch Lock</span>
+</div>
+</nav>
+</div>
+</section>
+<!-- Interactive Studio Grid Layout -->
+<div class="w-full px-margin-mobile md:px-margin-tablet lg:px-margin py-space-lg grid grid-cols-1 lg:grid-cols-12 gap-gutter">
+<!-- LEFT COLUMN: Interactive Visual Mockup Canvas Engine -->
+<div class="lg:col-span-7 flex flex-col gap-space-md">
+<div class="bg-surface-container-lowest p-space-md md:p-space-lg flex flex-col justify-between relative min-h-[660px] shadow-xl">
+<!-- Viewport Controls & Telemetry -->
+<div class="flex items-center justify-between z-20">
+<div class="flex items-center gap-1 bg-surface-container-low p-1">
+<button class="px-space-md py-1.5 font-label-caps text-label-caps uppercase bg-primary text-on-primary transition-all" id="viewFrontBtn" type="button">
+              VIEW FRONT
+            </button>
+<button class="px-space-md py-1.5 font-label-caps text-label-caps uppercase text-outline hover:text-primary transition-all" id="viewBackBtn" type="button">
+              VIEW BACK
+            </button>
+</div>
+<div class="flex items-center gap-3">
+<div class="flex items-center gap-2 px-3 py-1.5 bg-surface-container-low font-label-mono-sm text-label-mono-sm text-outline">
+<span>COLOR:</span>
+<span class="text-primary font-semibold uppercase" id="currentColorLabel">Obsidian Black</span>
+</div>
+<button class="p-2 bg-surface-container-low text-outline hover:text-primary transition-colors" id="resetTransformBtn" title="Reset Placement Scale" type="button">
+<span class="material-symbols-outlined text-[18px]">refresh</span>
+</button>
+</div>
+</div>
+<!-- Central Mockup Viewport -->
+<div class="relative w-full flex-1 flex items-center justify-center my-4 overflow-hidden select-none bg-surface-container-low/40">
+<!-- Silhouette Visual Render Layer -->
+<div class="relative w-full max-w-[480px] aspect-[3/4] flex items-center justify-center transition-all duration-300" id="garmentViewport">
+<!-- Front Garment Render -->
+<img class="absolute inset-0 w-full h-full object-contain filter drop-shadow-2xl transition-opacity duration-300 z-0 opacity-100" data-alt="Editorial hyperrealistic studio photograph of an oversized heavy architectural streetwear black hoodie on minimal grey background, front centered flat lay, sharp industrial contrast, textured 420 GSM loopback organic cotton fabric drape." id="garmentImgFront" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBe9SZLiHVMDLK1SxWBjoTUliGE2mxibXFFb98pQz3r0DIxppGgM6-K3D8G2y0vJJDmb0gsTMRI1SxOLNE7v0pYkqxn0yKalhuoFZCfEWygnswO5UPrCTK3AXwyiJHPBsjrKF25D6EvehtgJ0Ai3LDoklGG0geeaD3nlJztdlVmi1tBm0WP0mpS5vCB98RoHF7OipcspOOBe5A1KGPjfcNxRpqLSWHOZR6aKH25H3Gq"/>
+<!-- Back Garment Render -->
+<img class="absolute inset-0 w-full h-full object-contain filter drop-shadow-2xl transition-opacity duration-300 z-0 opacity-0 pointer-events-none" data-alt="Photorealistic studio shot of the back view of an oversized architectural streetwear black hoodie, boxy shoulders, clean drape, textured loopback French terry, dark monotone atelier lighting." id="garmentImgBack" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD5aCAGGn1cwMSMDZNxwUMGWJv_kzs88ssKKdMlbEeR0-ppBbvATH95gW4t5XmLKRsbqfJfEKb-EOWuOlORUREBeQ7vWOiisvtuDtGtz4PKra13W4KfB5yO-_VLoe_acTLvxHT1LAt1Tu5BoZBu4g3TIRCQ1HtgPZ3wlmrFLVEdCqsiOzhJx9ufnlPIP-H50rn-HYyDsUfqlrZZsreoEgCN2WC7fMx4dkQJHfY-FiER"/>
+<!-- Dynamic Color Cast Layer -->
+<div class="absolute inset-0 mix-blend-multiply opacity-20 pointer-events-none transition-colors duration-300 bg-transparent z-10" id="colorCastLayer"></div>
+<!-- Active Artwork Target Bounding Zone -->
+<div class="absolute top-[28%] left-[28%] w-[44%] h-[40%] flex items-center justify-center z-20 transition-all duration-150 pointer-events-auto cursor-move" id="artworkContainer">
+<!-- Grid Boundary Guide Indicator -->
+<div class="absolute inset-0 bg-outline/5 transition-colors" id="artBoundingBox">
+<span class="absolute -top-3 -left-3 w-2 h-2 bg-primary"></span>
+<span class="absolute -top-3 -right-3 w-2 h-2 bg-primary"></span>
+<span class="absolute -bottom-3 -left-3 w-2 h-2 bg-primary"></span>
+<span class="absolute -bottom-3 -right-3 w-2 h-2 bg-primary"></span>
+</div>
+<!-- Simulated Upload Graphic with Drag / Transform -->
+<div class="relative max-w-full max-h-full transition-transform origin-center" id="artworkElement">
+<img class="w-36 h-auto object-contain pointer-events-none" data-alt="High contrast geometric monogram emblem logo graphic in metallic silver and stark white vector typography for luxury haute streetwear apparel print." id="uploadedGraphicPreview" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDG-vEka73xLhzek3fKnipOWsWZ3dHAhRS3vRe4Gt_5glHaXn5vJpRKDzyhJ31qNJyo90iwJLRSMHuxoDPeyGvOSy09ZF3XkG4u1Yl0WeH0OX8dYEwzF9DEeieuQkEslYRUjO66hYwcCldSgdb752mDHOXQs5IWMZxKkQttrlO3yUj44aboRSrz40ghFEN4PIgOEwMnFm0ifb6hk9VGkvTY079mSgRx6AnORf5nNwTx"/>
+</div>
+</div>
+<!-- Position Target Pin Indicators -->
+<div class="absolute inset-0 pointer-events-none z-10">
+<span class="absolute top-[36%] left-[50%] -translate-x-1/2 w-3 h-3 rounded-full bg-primary/40 ring-4 ring-primary/10" id="pinFrontCenter"></span>
+<span class="absolute top-[32%] left-[34%] w-2.5 h-2.5 rounded-full bg-outline/50" id="pinLeftChest"></span>
+<span class="absolute top-[32%] right-[34%] w-2.5 h-2.5 rounded-full bg-outline/50" id="pinRightChest"></span>
+</div>
+</div>
+</div>
+<!-- Scale & Rotation Interactive Toolrail -->
+<div class="bg-surface-container-low p-space-md grid grid-cols-1 md:grid-cols-2 gap-space-md z-20">
+<div class="space-y-1">
+<div class="flex justify-between items-center font-label-mono-sm text-label-mono-sm text-outline">
+<span>ARTWORK SCALE RATIO</span>
+<span class="text-primary font-semibold" id="scaleValueLabel">68%</span>
+</div>
+<input class="w-full accent-primary h-1 bg-surface-container-highest cursor-pointer" id="scaleSlider" max="100" min="30" type="range" value="68"/>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between items-center font-label-mono-sm text-label-mono-sm text-outline">
+<span>ROTATION ORIENTATION</span>
+<span class="text-primary font-semibold" id="rotateValueLabel">0°</span>
+</div>
+<input class="w-full accent-primary h-1 bg-surface-container-highest cursor-pointer" id="rotateSlider" max="180" min="-180" type="range" value="0"/>
+</div>
+</div>
+<!-- Disclaimer & Technical Proofing Tag -->
+<div class="mt-space-sm pt-space-xs flex items-center justify-between text-outline font-label-mono-sm text-label-mono-sm">
+<div class="flex items-center gap-space-xs">
+<span class="material-symbols-outlined text-[16px] text-secondary">verified</span>
+<span>Photorealistic Atelier Rendering. Final manufactured piece includes verified pre-production swatch proofs.</span>
+</div>
+<span class="hidden md:inline-block font-mono tracking-widest text-outline-variant">SKU-RENDER-OT-994</span>
+</div>
+</div>
+<!-- Atelier Material & Precision Tech Specs Preview Grid -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-gutter">
+<div class="bg-surface-container-lowest p-space-md space-y-1">
+<span class="font-label-mono-sm text-label-mono-sm text-outline block uppercase">01 / DENSITY</span>
+<p class="font-title-lg text-title-lg text-primary" id="specGsm">420 GSM HEAVYWEIGHT</p>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Zero-twist loopback French terry with pre-shrunk combed yarn.</p>
+</div>
+<div class="bg-surface-container-lowest p-space-md space-y-1">
+<span class="font-label-mono-sm text-label-mono-sm text-outline block uppercase">02 / STRUCTURE</span>
+<p class="font-title-lg text-title-lg text-primary" id="specSilhouette">ARCHITECTURAL BOXY</p>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Dropped shoulder construct with twin-needle reinforced seamwork.</p>
+</div>
+<div class="bg-surface-container-lowest p-space-md space-y-1">
+<span class="font-label-mono-sm text-label-mono-sm text-outline block uppercase">03 / PRINT VERIFICATION</span>
+<p class="font-title-lg text-title-lg text-primary" id="specPrintTech">HIGH DEF DTG INK</p>
+<p class="font-body-sm text-body-sm text-on-surface-variant">Oeko-Tex certified pigment curing with 50+ wash cycle integrity.</p>
+</div>
+</div>
+</div>
+<!-- RIGHT COLUMN: Customisation Controls & Spec Panel -->
+<div class="lg:col-span-5 flex flex-col gap-space-md">
+<div class="bg-surface-container-lowest p-space-md md:p-space-lg space-y-space-lg shadow-xl">
+<!-- STEP 1: Silhouette & Structure Selector -->
+<div class="space-y-space-sm">
+<div class="flex items-center justify-between">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">Step 01 / Architecture</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">SELECT SILHOUETTE</span>
+</div>
+<div class="grid grid-cols-2 gap-space-xs">
+<button class="silhouette-btn p-space-sm text-left bg-surface-container-high transition-colors" data-fit="ARCHITECTURAL BOXY" data-gsm="420 GSM HEAVYWEIGHT" data-price="3999" data-silhouette="hoodie" type="button">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary block">420 GSM</span>
+<span class="font-title-md text-title-md text-primary block">Oversized Hoodie</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block mt-1">₹3,999</span>
+</button>
+<button class="silhouette-btn p-space-sm text-left bg-surface-container-low transition-colors hover:bg-surface-container-high" data-fit="STRUCTURED BOXY" data-gsm="280 GSM COMBED" data-price="2199" data-silhouette="tee" type="button">
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">280 GSM</span>
+<span class="font-title-md text-title-md text-primary block">Streetwear Tee</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block mt-1">₹2,199</span>
+</button>
+<button class="silhouette-btn p-space-sm text-left bg-surface-container-low transition-colors hover:bg-surface-container-high" data-fit="REGULAR RELAXED" data-gsm="380 GSM FLEECE" data-price="3499" data-silhouette="pullover" type="button">
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">380 GSM</span>
+<span class="font-title-md text-title-md text-primary block">Crewneck Pullover</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block mt-1">₹3,499</span>
+</button>
+<button class="silhouette-btn p-space-sm text-left bg-surface-container-low transition-colors hover:bg-surface-container-high" data-fit="MANDARIN TAILORED" data-gsm="190 GSM LINEN" data-price="2899" data-silhouette="shirt" type="button">
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">190 GSM</span>
+<span class="font-title-md text-title-md text-primary block">Collarless Shirt</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block mt-1">₹2,899</span>
+</button>
+</div>
+</div>
+<!-- STEP 2: Colorways & Size Matrix -->
+<div class="space-y-space-md">
+<div class="flex items-center justify-between">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">Step 02 / Color &amp; Size Matrix</span>
+<button class="font-label-mono-sm text-label-mono-sm text-outline hover:text-primary transition-colors underline underline-offset-2 uppercase" id="sizeGuideBtn" type="button">Size &amp; Fit Guide</button>
+</div>
+<!-- Color Swatches -->
+<div class="space-y-space-xs">
+<label class="font-label-mono-sm text-label-mono-sm text-on-surface-variant uppercase">Atelier Pigment Tone</label>
+<div class="flex items-center gap-space-sm">
+<button class="color-swatch-btn w-9 h-9 bg-[#131313] relative transition-transform ring-2 ring-primary scale-105" data-color="Obsidian Black" data-hex="#131313" title="Obsidian Black" type="button"></button>
+<button class="color-swatch-btn w-9 h-9 bg-[#ECEBE7] relative transition-transform hover:scale-105" data-color="Off-White Ivory" data-hex="#ECEBE7" title="Off-White Ivory" type="button"></button>
+<button class="color-swatch-btn w-9 h-9 bg-[#2E2E31] relative transition-transform hover:scale-105" data-color="Washed Charcoal" data-hex="#2E2E31" title="Washed Charcoal" type="button"></button>
+<button class="color-swatch-btn w-9 h-9 bg-[#1C2E24] relative transition-transform hover:scale-105" data-color="Forest Emerald" data-hex="#1C2E24" title="Forest Emerald" type="button"></button>
+<button class="color-swatch-btn w-9 h-9 bg-[#8E939B] relative transition-transform hover:scale-105" data-color="Silver Fog" data-hex="#8E939B" title="Silver Fog" type="button"></button>
+</div>
+</div>
+<!-- Size Buttons with Live Atelier Stock Counters -->
+<div class="space-y-space-xs">
+<label class="font-label-mono-sm text-label-mono-sm text-on-surface-variant uppercase">Garment Sizing</label>
+<div class="grid grid-cols-6 gap-space-xs">
+<button class="size-btn py-2 text-center bg-surface-container-low font-label-mono-sm text-label-mono-sm text-outline hover:text-primary transition-colors" data-size="XS" type="button">
+<span class="block font-semibold">XS</span>
+<span class="text-[9px] text-outline-variant block">4 left</span>
+</button>
+<button class="size-btn py-2 text-center bg-surface-container-low font-label-mono-sm text-label-mono-sm text-outline hover:text-primary transition-colors" data-size="S" type="button">
+<span class="block font-semibold">S</span>
+<span class="text-[9px] text-outline-variant block">9 left</span>
+</button>
+<button class="size-btn py-2 text-center bg-surface-container-high font-label-mono-sm text-label-mono-sm text-primary transition-colors ring-1 ring-primary" data-size="M" type="button">
+<span class="block font-semibold">M</span>
+<span class="text-[9px] text-secondary block">14 left</span>
+</button>
+<button class="size-btn py-2 text-center bg-surface-container-low font-label-mono-sm text-label-mono-sm text-outline hover:text-primary transition-colors" data-size="L" type="button">
+<span class="block font-semibold">L</span>
+<span class="text-[9px] text-outline-variant block">11 left</span>
+</button>
+<button class="size-btn py-2 text-center bg-surface-container-low font-label-mono-sm text-label-mono-sm text-outline hover:text-primary transition-colors" data-size="XL" type="button">
+<span class="block font-semibold">XL</span>
+<span class="text-[9px] text-outline-variant block">7 left</span>
+</button>
+<button class="size-btn py-2 text-center bg-surface-container-low font-label-mono-sm text-label-mono-sm text-outline hover:text-primary transition-colors" data-size="XXL" type="button">
+<span class="block font-semibold">XXL</span>
+<span class="text-[9px] text-outline-variant block">2 left</span>
+</button>
+</div>
+</div>
+</div>
+<!-- STEP 3: Artwork Uploader & Placement Specs -->
+<div class="space-y-space-md">
+<div class="flex items-center justify-between">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-secondary">Step 03 / Artwork &amp; Placement</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">UP TO 25MB VECTOR/RASTER</span>
+</div>
+<!-- Drag and Drop Uploader Area -->
+<div class="bg-surface-container-low p-space-lg flex flex-col items-center justify-center text-center cursor-pointer transition-colors hover:bg-surface-container-high" id="dropZone">
+<input accept="image/png, image/jpeg, image/jpg, application/pdf" class="hidden" id="artworkFileInput" type="file"/>
+<span class="material-symbols-outlined text-[36px] text-secondary mb-2">cloud_upload</span>
+<p class="font-title-md text-title-md text-primary uppercase">Drop Artwork File Here or Browse</p>
+<p class="font-label-mono-sm text-label-mono-sm text-outline mt-1">PNG, JPG, PDF (300 DPI Recommended for Crisp Finish)</p>
+<div class="mt-space-md inline-flex items-center gap-space-xs px-3 py-1.5 bg-surface text-primary font-label-caps text-label-caps uppercase">
+<span class="material-symbols-outlined text-[14px]">auto_fix_high</span>
+<span>Transparent Background Remover Auto-Applied</span>
+</div>
+</div>
+<!-- Active File Drawer -->
+<div class="bg-surface-container-low p-space-sm flex items-center justify-between" id="uploadedFilesDrawer">
+<div class="flex items-center gap-space-sm">
+<div class="w-10 h-10 bg-surface flex items-center justify-center">
+<span class="material-symbols-outlined text-secondary text-[20px]">image</span>
+</div>
+<div>
+<p class="font-label-mono-sm text-label-mono-sm text-primary uppercase" id="uploadedFileName">ARCHITECTURAL_SIG_01.PNG</p>
+<p class="font-label-mono-sm text-[10px] text-outline">300 DPI • 4.2 MB • CMYK VERIFIED</p>
+</div>
+</div>
+<button class="font-label-mono-sm text-label-mono-sm text-secondary hover:text-primary transition-colors uppercase" id="replaceFileBtn" type="button">
+              REPLACE
+            </button>
+</div>
+<!-- Placement Targets & Dynamic Surcharges -->
+<div class="space-y-space-xs">
+<div class="flex items-center justify-between">
+<label class="font-label-mono-sm text-label-mono-sm text-on-surface-variant uppercase">Artwork Zones</label>
+<span class="font-label-mono-sm text-label-mono-sm text-outline">SELECT ALL APPLICABLE</span>
+</div>
+<div class="space-y-2">
+<label class="flex items-center justify-between p-space-sm bg-surface-container-low cursor-pointer hover:bg-surface-container-high transition-colors">
+<div class="flex items-center gap-space-sm">
+<input checked="" class="placement-check accent-primary w-4 h-4 cursor-pointer" data-cost="0" data-placement="front-center" type="checkbox"/>
+<span class="font-body-md text-body-md text-primary">Front Center / Big Graphic</span>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary">INCLUDED</span>
+</label>
+<label class="flex items-center justify-between p-space-sm bg-surface-container-low cursor-pointer hover:bg-surface-container-high transition-colors">
+<div class="flex items-center gap-space-sm">
+<input class="placement-check accent-primary w-4 h-4 cursor-pointer" data-cost="250" data-placement="left-chest" type="checkbox"/>
+<span class="font-body-md text-body-md text-primary">Left Chest (Monogram/Pocket)</span>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-primary">+₹250</span>
+</label>
+<label class="flex items-center justify-between p-space-sm bg-surface-container-low cursor-pointer hover:bg-surface-container-high transition-colors">
+<div class="flex items-center gap-space-sm">
+<input class="placement-check accent-primary w-4 h-4 cursor-pointer" data-cost="450" data-placement="full-back" type="checkbox"/>
+<span class="font-body-md text-body-md text-primary">Back Full Statement Graphic</span>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-primary">+₹450</span>
+</label>
+<label class="flex items-center justify-between p-space-sm bg-surface-container-low cursor-pointer hover:bg-surface-container-high transition-colors">
+<div class="flex items-center gap-space-sm">
+<input class="placement-check accent-primary w-4 h-4 cursor-pointer" data-cost="200" data-placement="sleeve" type="checkbox"/>
+<span class="font-body-md text-body-md text-primary">Sleeve Minimal Coordinates</span>
+</div>
+<span class="font-label-mono-sm text-label-mono-sm text-primary">+₹200</span>
+</label>
+</div>
+</div>
+<!-- Printing / Embellishment Technique -->
+<div class="space-y-space-xs">
+<label class="font-label-mono-sm text-label-mono-sm text-on-surface-variant uppercase">Atelier Application Technique</label>
+<div class="grid grid-cols-2 gap-space-xs">
+<button class="tech-btn p-space-sm text-left bg-surface-container-high transition-colors" data-cost="0" data-tech="dtg" type="button">
+<span class="font-title-md text-title-md text-primary block">High-Def DTG</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">Photographic Inks</span>
+</button>
+<button class="tech-btn p-space-sm text-left bg-surface-container-low transition-colors hover:bg-surface-container-high" data-cost="350" data-tech="puff" type="button">
+<span class="font-title-md text-title-md text-primary block">3D Puff Print</span>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary block">+₹350 Architectural</span>
+</button>
+<button class="tech-btn p-space-sm text-left bg-surface-container-low transition-colors hover:bg-surface-container-high" data-cost="500" data-tech="embroidery" type="button">
+<span class="font-title-md text-title-md text-primary block">Silver Embroidery</span>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary block">+₹500 Lurex Thread</span>
+</button>
+<button class="tech-btn p-space-sm text-left bg-surface-container-low transition-colors hover:bg-surface-container-high" data-cost="150" data-tech="screen" type="button">
+<span class="font-title-md text-title-md text-primary block">Plastisol Screen</span>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">+₹150 Matte Finish</span>
+</button>
+</div>
+</div>
+<!-- Custom Instructions Field -->
+<div class="space-y-space-xs">
+<label class="font-label-mono-sm text-label-mono-sm text-on-surface-variant uppercase" for="customInstructions">Custom Notes / Master Tailor Guidance</label>
+<textarea class="w-full bg-surface-container-low p-space-sm text-primary font-body-md text-body-md placeholder:text-outline focus:bg-surface focus:outline-none transition-colors" id="customInstructions" placeholder="E.g., metallic silver thread for chest logo, distress cuff edges, subtle wash effect..." rows="2"></textarea>
+</div>
+</div>
+<!-- STEP 4: Dynamic Atelier Calculation Breakdown -->
+<div class="bg-surface-container p-space-md space-y-space-sm">
+<div class="flex items-center justify-between pb-2 bg-surface-container">
+<span class="font-label-caps text-label-caps uppercase tracking-widest text-primary">Live Atelier Cost Breakdown</span>
+<span class="font-label-mono-sm text-label-mono-sm text-secondary">ALL TAXES (GST 12%) INCLUDED</span>
+</div>
+<div class="space-y-1.5 font-label-mono-sm text-label-mono-sm">
+<div class="flex justify-between text-outline">
+<span>BASE GARMENT (<span id="summarySilhouette">Oversized Hoodie 420 GSM</span>)</span>
+<span id="priceBase">₹3,999</span>
+</div>
+<div class="flex justify-between text-outline">
+<span>ARTWORK PLACEMENT CHARGES</span>
+<span id="pricePlacements">₹0</span>
+</div>
+<div class="flex justify-between text-outline">
+<span>TECHNIQUE EMBELLISHMENT (<span id="summaryTech">DTG</span>)</span>
+<span id="priceTechnique">₹0</span>
+</div>
+<div class="flex justify-between text-outline">
+<span>ATELIER PROOFING &amp; PRE-PRODUCTION</span>
+<span class="text-secondary uppercase">COMPLIMENTARY</span>
+</div>
+</div>
+<div class="pt-space-sm mt-space-sm flex items-baseline justify-between">
+<div>
+<span class="font-label-mono-sm text-label-mono-sm text-outline block">ESTIMATED TOTAL</span>
+<span class="font-headline-sm text-headline-sm text-primary font-bold" id="totalPrice">₹3,999</span>
+</div>
+<div class="text-right">
+<span class="font-label-mono-sm text-label-mono-sm text-secondary block">ESTIMATED DISPATCH</span>
+<span class="font-title-md text-title-md text-on-surface">3 – 5 BUSINESS DAYS</span>
+</div>
+</div>
+</div>
+<!-- STEP 5: Dual Direct Conversion Triggers -->
+<div class="space-y-space-sm">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-sm">
+<button class="w-full py-3.5 px-space-md bg-surface-container-high text-primary hover:bg-surface-bright font-label-caps text-label-caps uppercase tracking-widest transition-colors flex items-center justify-center gap-space-xs" id="addToBagBtn" type="button">
+<span class="material-symbols-outlined text-[18px]">shopping_bag</span>
+<span>ADD DESIGN TO BAG</span>
+</button>
+<button class="w-full py-3.5 px-space-md bg-primary text-on-primary hover:bg-secondary-fixed hover:text-on-secondary font-label-caps text-label-caps uppercase tracking-widest transition-colors flex items-center justify-center gap-space-xs font-bold shadow-md" id="buyNowBtn" type="button">
+<span class="material-symbols-outlined text-[18px]">bolt</span>
+<span>BUY NOW &amp; CHECKOUT</span>
+</button>
+</div>
+<!-- WhatsApp Concierge Consultation Link -->
+<a class="w-full py-3 px-space-md bg-[#25D366]/10 text-primary hover:bg-[#25D366]/20 font-label-caps text-label-caps uppercase tracking-widest transition-colors flex items-center justify-center gap-space-sm" href="https://wa.me/919611623514?text=Hello%20Outfit%20Theory%20Atelier,%20I%20have%20custom%20garment%20specs%20for%20Oversized%20Hoodie%20in%20Obsidian%20Black%20(Size%20M)." id="whatsAppConciergeBtn" rel="noopener noreferrer" target="_blank">
+<span class="material-symbols-outlined text-[18px] text-[#25D366]">chat</span>
+<span>INSTANT WHATSAPP CONSULTATION (+91 9611623514)</span>
+</a>
+<!-- Concierge Dispatch Note -->
+<div class="flex items-center justify-center gap-space-md pt-2 text-outline font-label-mono-sm text-label-mono-sm">
+<a class="hover:text-primary transition-colors flex items-center gap-1" href="mailto:bharathj0109@gmail.com">
+<span class="material-symbols-outlined text-[14px]">mail</span>
+<span>bharathj0109@gmail.com</span>
+</a>
+<span>•</span>
+<span class="flex items-center gap-1">
+<span class="material-symbols-outlined text-[14px]">verified_user</span>
+<span>100% QUALITY GUARANTEED</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Notification Toast Modal (Hidden By Default) -->
+<div class="fixed bottom-6 right-6 z-50 bg-primary text-on-primary p-space-md shadow-2xl flex items-center gap-space-md translate-y-24 opacity-0 transition-all duration-300 pointer-events-none" id="atelierToast">
+<span class="material-symbols-outlined text-[24px]">task_alt</span>
+<div>
+<p class="font-title-md text-title-md uppercase font-bold" id="toastMessage">Custom Piece Added To Bag</p>
+<p class="font-label-mono-sm text-label-mono-sm opacity-80">Mockup blueprint and artwork tokens preserved.</p>
+</div>
+</div>
+</div>
+<script>
+  (function initAtelierCustomStudio() {
+    // Current Configuration State
+    const atelierState = {
+      silhouette: 'hoodie',
+      silhouetteName: 'Oversized Hoodie 420 GSM',
+      basePrice: 3999,
+      color: 'Obsidian Black',
+      colorHex: '#131313',
+      size: 'M',
+      view: 'front',
+      scale: 68,
+      rotation: 0,
+      placements: {
+        'front-center': true,
+        'left-chest': false,
+        'full-back': false,
+        'sleeve': false
+      },
+      placementCosts: {
+        'front-center': 0,
+        'left-chest': 250,
+        'full-back': 450,
+        'sleeve': 200
+      },
+      technique: 'dtg',
+      techniqueName: 'High-Def DTG',
+      techniqueCost: 0,
+      notes: ''
+    };
+
+    // DOM Elements
+    const garmentImgFront = document.getElementById('garmentImgFront');
+    const garmentImgBack = document.getElementById('garmentImgBack');
+    const colorCastLayer = document.getElementById('colorCastLayer');
+    const viewFrontBtn = document.getElementById('viewFrontBtn');
+    const viewBackBtn = document.getElementById('viewBackBtn');
+    const currentColorLabel = document.getElementById('currentColorLabel');
+    const scaleSlider = document.getElementById('scaleSlider');
+    const rotateSlider = document.getElementById('rotateSlider');
+    const scaleValueLabel = document.getElementById('scaleValueLabel');
+    const rotateValueLabel = document.getElementById('rotateValueLabel');
+    const artworkElement = document.getElementById('artworkElement');
+    const resetTransformBtn = document.getElementById('resetTransformBtn');
+
+    const specGsm = document.getElementById('specGsm');
+    const specSilhouette = document.getElementById('specSilhouette');
+    const specPrintTech = document.getElementById('specPrintTech');
+
+    const summarySilhouette = document.getElementById('summarySilhouette');
+    const summaryTech = document.getElementById('summaryTech');
+    const priceBase = document.getElementById('priceBase');
+    const pricePlacements = document.getElementById('pricePlacements');
+    const priceTechnique = document.getElementById('priceTechnique');
+    const totalPrice = document.getElementById('totalPrice');
+    const whatsAppConciergeBtn = document.getElementById('whatsAppConciergeBtn');
+
+    const dropZone = document.getElementById('dropZone');
+    const artworkFileInput = document.getElementById('artworkFileInput');
+    const uploadedGraphicPreview = document.getElementById('uploadedGraphicPreview');
+    const uploadedFileName = document.getElementById('uploadedFileName');
+    const replaceFileBtn = document.getElementById('replaceFileBtn');
+
+    const silhouetteBtns = document.querySelectorAll('.silhouette-btn');
+    const colorBtns = document.querySelectorAll('.color-swatch-btn');
+    const sizeBtns = document.querySelectorAll('.size-btn');
+    const techBtns = document.querySelectorAll('.tech-btn');
+    const placementCheckboxes = document.querySelectorAll('.placement-check');
+
+    const addToBagBtn = document.getElementById('addToBagBtn');
+    const buyNowBtn = document.getElementById('buyNowBtn');
+    const atelierToast = document.getElementById('atelierToast');
+    const toastMessage = document.getElementById('toastMessage');
+
+    // Silhouette Swapping
+    silhouetteBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        silhouetteBtns.forEach(b => {
+          b.classList.remove('bg-surface-container-high');
+          b.classList.add('bg-surface-container-low');
+        });
+        btn.classList.remove('bg-surface-container-low');
+        btn.classList.add('bg-surface-container-high');
+
+        atelierState.silhouette = btn.getAttribute('data-silhouette');
+        atelierState.basePrice = parseInt(btn.getAttribute('data-price'), 10);
+        atelierState.silhouetteName = btn.querySelector('.font-title-md').innerText;
+        
+        specGsm.innerText = btn.getAttribute('data-gsm');
+        specSilhouette.innerText = btn.getAttribute('data-fit');
+        summarySilhouette.innerText = atelierState.silhouetteName;
+
+        updateCalculation();
+      });
+    });
+
+    // Front/Back Toggle
+    function setView(view) {
+      atelierState.view = view;
+      if (view === 'front') {
+        garmentImgFront.classList.remove('opacity-0', 'pointer-events-none');
+        garmentImgFront.classList.add('opacity-100');
+        garmentImgBack.classList.add('opacity-0', 'pointer-events-none');
+        garmentImgBack.classList.remove('opacity-100');
+
+        viewFrontBtn.classList.add('bg-primary', 'text-on-primary');
+        viewFrontBtn.classList.remove('text-outline');
+        viewBackBtn.classList.remove('bg-primary', 'text-on-primary');
+        viewBackBtn.classList.add('text-outline');
+      } else {
+        garmentImgBack.classList.remove('opacity-0', 'pointer-events-none');
+        garmentImgBack.classList.add('opacity-100');
+        garmentImgFront.classList.add('opacity-0', 'pointer-events-none');
+        garmentImgFront.classList.remove('opacity-100');
+
+        viewBackBtn.classList.add('bg-primary', 'text-on-primary');
+        viewBackBtn.classList.remove('text-outline');
+        viewFrontBtn.classList.remove('bg-primary', 'text-on-primary');
+        viewFrontBtn.classList.add('text-outline');
+      }
+    }
+
+    viewFrontBtn.addEventListener('click', () => setView('front'));
+    viewBackBtn.addEventListener('click', () => setView('back'));
+
+    // Dynamic Color Switching
+    colorBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        colorBtns.forEach(b => b.classList.remove('ring-2', 'ring-primary', 'scale-105'));
+        btn.classList.add('ring-2', 'ring-primary', 'scale-105');
+
+        atelierState.color = btn.getAttribute('data-color');
+        atelierState.colorHex = btn.getAttribute('data-hex');
+        currentColorLabel.innerText = atelierState.color;
+
+        // Apply visual shade cast
+        if (atelierState.color === 'Obsidian Black') {
+          colorCastLayer.style.backgroundColor = 'transparent';
+        } else if (atelierState.color === 'Off-White Ivory') {
+          colorCastLayer.style.backgroundColor = 'rgba(236, 235, 231, 0.45)';
+        } else if (atelierState.color === 'Forest Emerald') {
+          colorCastLayer.style.backgroundColor = 'rgba(28, 46, 36, 0.55)';
+        } else if (atelierState.color === 'Silver Fog') {
+          colorCastLayer.style.backgroundColor = 'rgba(142, 147, 155, 0.45)';
+        } else {
+          colorCastLayer.style.backgroundColor = 'rgba(46, 46, 49, 0.5)';
+        }
+
+        updateWhatsAppMessage();
+      });
+    });
+
+    // Size Selection
+    sizeBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        sizeBtns.forEach(b => {
+          b.classList.remove('bg-surface-container-high', 'text-primary', 'ring-1', 'ring-primary');
+          b.classList.add('bg-surface-container-low', 'text-outline');
+        });
+        btn.classList.remove('bg-surface-container-low', 'text-outline');
+        btn.classList.add('bg-surface-container-high', 'text-primary', 'ring-1', 'ring-primary');
+
+        atelierState.size = btn.getAttribute('data-size');
+        updateWhatsAppMessage();
+      });
+    });
+
+    // Technique Selection
+    techBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        techBtns.forEach(b => {
+          b.classList.remove('bg-surface-container-high');
+          b.classList.add('bg-surface-container-low');
+        });
+        btn.classList.remove('bg-surface-container-low');
+        btn.classList.add('bg-surface-container-high');
+
+        atelierState.technique = btn.getAttribute('data-tech');
+        atelierState.techniqueCost = parseInt(btn.getAttribute('data-cost'), 10);
+        atelierState.techniqueName = btn.querySelector('.font-title-md').innerText;
+        summaryTech.innerText = atelierState.techniqueName;
+        specPrintTech.innerText = atelierState.techniqueName.toUpperCase();
+
+        updateCalculation();
+      });
+    });
+
+    // Placement Checkbox handling
+    placementCheckboxes.forEach(chk => {
+      chk.addEventListener('change', () => {
+        const placement = chk.getAttribute('data-placement');
+        atelierState.placements[placement] = chk.checked;
+        updateCalculation();
+      });
+    });
+
+    // Artwork Transform Engine
+    function applyTransform() {
+      const scaleDecimal = atelierState.scale / 100;
+      artworkElement.style.transform = `scale(${scaleDecimal}) rotate(${atelierState.rotation}deg)`;
+      scaleValueLabel.innerText = `${atelierState.scale}%`;
+      rotateValueLabel.innerText = `${atelierState.rotation}°`;
+    }
+
+    scaleSlider.addEventListener('input', (e) => {
+      atelierState.scale = parseInt(e.target.value, 10);
+      applyTransform();
+    });
+
+    rotateSlider.addEventListener('input', (e) => {
+      atelierState.rotation = parseInt(e.target.value, 10);
+      applyTransform();
+    });
+
+    resetTransformBtn.addEventListener('click', () => {
+      atelierState.scale = 68;
+      atelierState.rotation = 0;
+      scaleSlider.value = 68;
+      rotateSlider.value = 0;
+      applyTransform();
+    });
+
+    // Drag-and-Drop / File Upload
+    dropZone.addEventListener('click', () => artworkFileInput.click());
+    replaceFileBtn.addEventListener('click', () => artworkFileInput.click());
+
+    dropZone.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      dropZone.classList.add('bg-surface-container-high');
+    });
+
+    dropZone.addEventListener('dragleave', () => {
+      dropZone.classList.remove('bg-surface-container-high');
+    });
+
+    dropZone.addEventListener('drop', (e) => {
+      e.preventDefault();
+      dropZone.classList.remove('bg-surface-container-high');
+      if (e.dataTransfer.files && e.dataTransfer.files[0]) {
+        handleFileSelect(e.dataTransfer.files[0]);
+      }
+    });
+
+    artworkFileInput.addEventListener('change', (e) => {
+      if (e.target.files && e.target.files[0]) {
+        handleFileSelect(e.target.files[0]);
+      }
+    });
+
+    function handleFileSelect(file) {
+      uploadedFileName.innerText = file.name.toUpperCase();
+      const reader = new FileReader();
+      reader.onload = (event) => {
+        uploadedGraphicPreview.src = event.target.result;
+        showToast('Artwork Vector Ingested Successfully');
+      };
+      reader.readAsDataURL(file);
+    }
+
+    // Dynamic Cost Engine
+    function updateCalculation() {
+      let placementsSum = 0;
+      Object.keys(atelierState.placements).forEach(key => {
+        if (atelierState.placements[key]) {
+          placementsSum += atelierState.placementCosts[key];
+        }
+      });
+
+      const total = atelierState.basePrice + placementsSum + atelierState.techniqueCost;
+
+      priceBase.innerText = `₹${atelierState.basePrice.toLocaleString('en-IN')}`;
+      pricePlacements.innerText = `+₹${placementsSum.toLocaleString('en-IN')}`;
+      priceTechnique.innerText = `+₹${atelierState.techniqueCost.toLocaleString('en-IN')}`;
+      totalPrice.innerText = `₹${total.toLocaleString('en-IN')}`;
+
+      updateWhatsAppMessage();
+    }
+
+    function updateWhatsAppMessage() {
+      const activePlacements = Object.keys(atelierState.placements)
+        .filter(k => atelierState.placements[k])
+        .join(', ');
+
+      const message = `Hello Outfit Theory Atelier, I have configured custom garment specifications:\n- Silhouette: ${atelierState.silhouetteName}\n- Color: ${atelierState.color}\n- Size: ${atelierState.size}\n- Technique: ${atelierState.techniqueName}\n- Artwork Placements: ${activePlacements}\n- Total: ${totalPrice.innerText}\nPlease consult me on production lead time.`;
+
+      whatsAppConciergeBtn.href = `https://wa.me/919611623514?text=${encodeURIComponent(message)}`;
+    }
+
+    // Toast Notifications
+    function showToast(text) {
+      toastMessage.innerText = text;
+      atelierToast.classList.remove('translate-y-24', 'opacity-0', 'pointer-events-none');
+      setTimeout(() => {
+        atelierToast.classList.add('translate-y-24', 'opacity-0', 'pointer-events-none');
+      }, 3500);
+    }
+
+    addToBagBtn.addEventListener('click', () => {
+      showToast('Custom Piece Added To Bag');
+    });
+
+    buyNowBtn.addEventListener('click', () => {
+      showToast('Redirecting To Atelier Direct Checkout...');
+    });
+
+    // Initialize initial calculations
+    updateCalculation();
+  })();
+</script></main><footer class="w-full bg-surface-container-lowest border-t border-outline-variant/30 text-on-surface-variant"><div class="w-full px-margin-mobile md:px-margin-tablet lg:px-margin py-space-xl grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-gutter"><div class="lg:col-span-4 space-y-space-md"><div class="flex items-center gap-space-sm"><img alt="OUTFIT THEORY Monogram" class="h-7 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1VcYT6Zm0--kwpV5zSspr2o2Z0BfVnd2xA4oKg8YX6FfePy-h62d2S59vtwObaoQEW9kOlTwFOtlNkeAAflsi9lpN3s7CsuBkMI9Yur7b3BOgmRinB7y1sKlJhkDeWD9SXtmCAGeKSnS-I71pQY7sq77tdU-VjE_EaS9EM_C0o5u-rDguaF5r7-dHxzup92CJ6NflyKDNmo41PCripRUy6Fxx_z6VXIOS9TgUEsEOWh"/><span class="font-headline-sm text-headline-sm tracking-widest text-primary uppercase">OUTFIT THEORY</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-sm">Editorial Haute Fashion &amp; Structural Garment Engineering. Precision tailoring meets minimal architectural poise.</p><div class="pt-space-sm font-label-mono-sm text-label-mono-sm space-y-1 text-outline"><p class="text-secondary uppercase tracking-widest">DIRECT ATELIER CONCIERGE</p><p class="text-on-surface">TEL: +91 9611623514</p><p class="text-on-surface">SUPPORT: bharathj0109@gmail.com</p></div></div><div class="lg:col-span-2 space-y-space-sm"><h4 class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-outline-variant/30 pb-2">Curations</h4><ul class="space-y-2 font-body-sm text-body-sm"><li><a class="hover:text-primary transition-colors" data-path="shop" href="#">Heavyweight Hoodies</a></li><li><a class="hover:text-primary transition-colors" data-path="shop" href="#">Sculptural T-Shirts</a></li><li><a class="hover:text-primary transition-colors" data-path="shop" href="#">Tailored Cotton Shirts</a></li><li><a class="hover:text-primary transition-colors" data-path="customise-your-outfit" href="#">Custom Apparel Atelier</a></li><li><a class="hover:text-primary transition-colors" data-path="bulk-corporate-orders" href="#">Bulk &amp; B2B Orders</a></li></ul></div><div class="lg:col-span-2 space-y-space-sm"><h4 class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-outline-variant/30 pb-2">Client Care</h4><ul class="space-y-2 font-body-sm text-body-sm"><li><a class="hover:text-primary transition-colors" data-path="shipping-and-returns" href="#">Worldwide Shipping</a></li><li><a class="hover:text-primary transition-colors" data-path="shipping-and-returns" href="#">Returns &amp; Exchanges</a></li><li><a class="hover:text-primary transition-colors" data-path="privacy-policy" href="#">Privacy Policy</a></li><li><a class="hover:text-primary transition-colors" data-path="terms-and-conditions" href="#">Terms of Service</a></li><li><a class="hover:text-primary transition-colors" data-path="contact" href="#">Concierge Desk</a></li></ul></div><div class="lg:col-span-4 space-y-space-md"><h4 class="font-label-caps text-label-caps uppercase tracking-widest text-primary border-b border-outline-variant/30 pb-2">Dispatches From The Atelier</h4><p class="font-body-sm text-body-sm text-on-surface-variant">Receive seasonal lookbooks, garment drops, and private atelier showings.</p><form class="flex items-center gap-0"><input class="w-full bg-surface border border-outline-variant/60 px-space-md py-3 text-on-surface font-label-mono-sm text-label-mono-sm focus:outline-none focus:border-primary placeholder:text-outline" placeholder="ENTER EMAIL FOR PRIVILEGED ACCESS" type="email"/><button class="bg-primary text-on-primary font-label-caps text-label-caps px-space-lg py-3 uppercase tracking-widest hover:bg-secondary-fixed hover:text-on-secondary transition-colors whitespace-nowrap" type="submit">JOIN</button></form><div class="pt-space-sm space-y-2"><span class="font-label-mono-sm text-label-mono-sm uppercase text-outline tracking-widest block">Verified Domestic &amp; International Rails</span><div class="flex items-center gap-space-md text-outline font-label-mono-sm text-label-mono-sm tracking-wider uppercase border border-outline-variant/20 p-2 bg-surface-container-low"><span class="text-on-surface font-semibold">RAZORPAY</span><span>•</span><span class="text-on-surface font-semibold">CASHFREE</span><span>•</span><span class="text-on-surface font-semibold">UPI</span><span>•</span><span class="text-on-surface font-semibold">CARDS</span></div></div></div></div><div class="border-t border-outline-variant/30 py-space-md px-margin-mobile md:px-margin-tablet lg:px-margin flex flex-col md:flex-row items-center justify-between gap-space-sm text-center font-label-mono-sm text-label-mono-sm text-outline"><p>© 2025 OUTFIT THEORY ATELIER. WEAR YOUR IDENTITY.</p><p class="tracking-widest uppercase">BENGALURU • MUMBAI • MILAN • TOKYO</p></div></footer></body></html>
